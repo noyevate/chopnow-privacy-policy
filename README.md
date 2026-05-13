@@ -5,4 +5,4 @@
 Create a new GitHub repository named:
 
 ```bash
-chopnow-privacy-policy
+chopnow-privacy-policygit commit -m "Initial privacy policy page"
